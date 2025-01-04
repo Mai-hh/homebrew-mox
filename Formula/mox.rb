@@ -26,4 +26,3 @@ class Mox < Formula
           system "#{bin}/mox", "--version"
         end
      end
-end
